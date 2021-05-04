@@ -19,3 +19,5 @@ python3 spreadsheet.py
 ```
 
 Output:
+<br/>
+![output_image](https://github.com/vazquezlazaro/Openpyxl/blob/main/output_image.png)
